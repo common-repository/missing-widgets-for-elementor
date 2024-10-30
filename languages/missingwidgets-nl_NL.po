@@ -1,0 +1,1519 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Missing Widgets for Elementor\n"
+"POT-Creation-Date: 2024-05-20 08:49+0200\n"
+"PO-Revision-Date: 2024-05-20 08:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: missing-widgets-for-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: includes/class-core.php:87
+#, php-format
+msgid ""
+"Premium users have more options here!  <a href=\"%s\" target=\"_new\">View "
+"the premium options for this widget.</a>"
+msgstr ""
+"Premium gebruikers hebben hier meer opties!  <a href=\"%s\" target=\"_new"
+"\">Bekijk de premium opties voor deze widget.</a>"
+
+#: includes/class-core.php:90
+#, php-format
+msgid "<br/><a href=\"%s\" target=\"_new\">Upgrade Now!</a>"
+msgstr "<br/><a href=\"%s\" target=\"_new\">Upgrade naar premium!</a>"
+
+#: includes/class-core.php:106
+msgid "Upgrade to Pro for more features"
+msgstr "Upgrade naar premium voor meer features"
+
+#: includes/class-core.php:135
+msgid "Elementor is not active or not installed"
+msgstr "Elementor is niet actief of niet geïnstalleerd"
+
+#: includes/extras/class-modulestickyscrolleffects.php:30
+msgid "Sticky Scrolling Effects"
+msgstr "Vastgemaakte Scroll effecten"
+
+#: includes/extras/class-modulestickyscrolleffects.php:42
+msgid "Enable Sticky Scrolling Effects"
+msgstr "Vastgemaakte  scrolleffecten inschakelen"
+
+#: includes/extras/class-modulestickyscrolleffects.php:44
+#: includes/extras/class-modulestickyscrolleffects.php:66
+#: includes/widgets/class-formassembly.php:156
+msgid "No"
+msgstr "Nee"
+
+#: includes/extras/class-modulestickyscrolleffects.php:45
+#: includes/extras/class-modulestickyscrolleffects.php:67
+#: includes/widgets/class-formassembly.php:157
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/extras/class-modulestickyscrolleffects.php:62
+msgid "Downsize images when scrolling"
+msgstr "Verklein afbeeldingen tijdens scrollen"
+
+#: includes/extras/class-modulestickyscrolleffects.php:63
+msgid ""
+"Add the classname \"sticky-scrolling-effect-noresize\" to an image to "
+"prevent it from resizing during scrolling."
+msgstr ""
+"Voeg de klasse \"sticky-scrolling-effect-noresize\" aan een afbeelding  toe "
+"zodat het formaat tijdens het scrollen niet wordt gewijzigd."
+
+#: includes/extras/class-modulestickyscrolleffects.php:82
+msgid "Downsize images (%)"
+msgstr "Verklein afbeeldingen (%)"
+
+#: includes/extras/class-modulestickyscrolleffects.php:110
+msgid "Set minimum height section (px)"
+msgstr "Minimale hoogte sectie instellen (px)"
+
+#: includes/extras/class-modulestickyscrolleffects.php:138
+msgid "Change background color"
+msgstr "Achtergrondkleur wijzigen"
+
+#: includes/extras/class-modulestickyscrolleffects.php:157
+#: includes/widgets/class-cookieconsentpopup.php:359
+#: includes/widgets/class-cookieconsentpopup.php:685
+#: includes/widgets/class-formassembly.php:419
+#: includes/widgets/class-formassembly.php:685
+#: includes/widgets/class-formassembly.php:749
+#: includes/widgets/class-formassembly.php:1123
+#: includes/widgets/class-formidableform.php:634
+#: includes/widgets/class-formidableform.php:698
+#: includes/widgets/class-formidableform.php:1435
+#: includes/widgets/class-numberedlist.php:391
+msgid "Border"
+msgstr "Rand"
+
+#: includes/extras/class-themeextrasettings.php:15
+msgid "Extra Theme Styling settings"
+msgstr "Extra instellingen voor themastijl"
+
+#: includes/extras/class-themeextrasettings.php:37
+msgid "Extra theme settings styling"
+msgstr "Styling van extra thema-instellingen"
+
+#: includes/extras/class-themeextrasettings.php:45
+msgid "Offset for anchors with fixed headers"
+msgstr "Offset voor ankers met vaste headers"
+
+#: includes/extras/class-themestyleextrabutton.php:19
+msgid "Styling button types"
+msgstr "Stijlen button types"
+
+#: includes/extras/class-themestyleextrabutton.php:59
+#: includes/widgets/class-formassembly.php:410
+#: includes/widgets/class-formassembly.php:484
+#: includes/widgets/class-formassembly.php:709
+#: includes/widgets/class-formassembly.php:811
+#: includes/widgets/class-formassembly.php:1062
+#: includes/widgets/class-formassembly.php:1301
+#: includes/widgets/class-formidableform.php:374
+#: includes/widgets/class-formidableform.php:405
+#: includes/widgets/class-formidableform.php:440
+#: includes/widgets/class-formidableform.php:658
+#: includes/widgets/class-formidableform.php:747
+#: includes/widgets/class-formidableform.php:801
+#: includes/widgets/class-formidableform.php:1005
+#: includes/widgets/class-formidableform.php:1219
+#: includes/widgets/class-formidableform.php:1538
+#: includes/widgets/class-formidableform.php:1616
+#: includes/widgets/class-formidableform.php:1766
+msgid "Typography"
+msgstr "Lettertype"
+
+#: includes/extras/class-themestyleextrabutton.php:77
+#: includes/widgets/class-cookieconsentpopup.php:607
+#: includes/widgets/class-footermenu.php:243
+#: includes/widgets/class-footermenu.php:337
+#: includes/widgets/class-footermenu.php:480
+#: includes/widgets/class-formassembly.php:541
+#: includes/widgets/class-formassembly.php:1087
+#: includes/widgets/class-formidableform.php:490
+#: includes/widgets/class-formidableform.php:1017
+#: includes/widgets/class-formidableform.php:1231
+#: includes/widgets/class-formidableform.php:1403
+msgid "Normal"
+msgstr "Normaal"
+
+#: includes/extras/class-themestyleextrabutton.php:84
+#: includes/extras/class-themestyleextrabutton.php:149
+#: includes/widgets/class-cookieconsentpopup.php:434
+#: includes/widgets/class-cookieconsentpopup.php:614
+#: includes/widgets/class-cookieconsentpopup.php:649
+#: includes/widgets/class-dynamicfieldlist.php:370
+#: includes/widgets/class-dynamicfieldlist.php:442
+#: includes/widgets/class-dynamicfieldlist.php:490
+#: includes/widgets/class-footermenu.php:250
+#: includes/widgets/class-footermenu.php:272
+#: includes/widgets/class-footermenu.php:344
+#: includes/widgets/class-footermenu.php:366
+#: includes/widgets/class-formassembly.php:397
+#: includes/widgets/class-formassembly.php:456
+#: includes/widgets/class-formassembly.php:560
+#: includes/widgets/class-formassembly.php:789
+#: includes/widgets/class-formassembly.php:875
+#: includes/widgets/class-formassembly.php:1108
+#: includes/widgets/class-formassembly.php:1207
+#: includes/widgets/class-formassembly.php:1264
+#: includes/widgets/class-formidableform.php:361
+#: includes/widgets/class-formidableform.php:392
+#: includes/widgets/class-formidableform.php:428
+#: includes/widgets/class-formidableform.php:509
+#: includes/widgets/class-formidableform.php:735
+#: includes/widgets/class-formidableform.php:788
+#: includes/widgets/class-formidableform.php:898
+#: includes/widgets/class-formidableform.php:1422
+#: includes/widgets/class-formidableform.php:1509
+#: includes/widgets/class-formidableform.php:1579
+#: includes/widgets/class-formidableform.php:1729
+#: includes/widgets/class-labellist.php:384
+#: includes/widgets/class-labellist.php:482
+#: includes/widgets/class-maximumcontentlength.php:249
+#: includes/widgets/class-numberedlist.php:421
+msgid "Text Color"
+msgstr "Tekst kleur"
+
+#: includes/extras/class-themestyleextrabutton.php:96
+#: includes/extras/class-themestyleextrabutton.php:161
+#: includes/widgets/class-cookieconsentpopup.php:626
+#: includes/widgets/class-cookieconsentpopup.php:661
+#: includes/widgets/class-formassembly.php:548
+#: includes/widgets/class-formassembly.php:736
+#: includes/widgets/class-formassembly.php:1094
+#: includes/widgets/class-formassembly.php:1193
+#: includes/widgets/class-formassembly.php:1276
+#: includes/widgets/class-formidableform.php:497
+#: includes/widgets/class-formidableform.php:685
+#: includes/widgets/class-formidableform.php:1410
+#: includes/widgets/class-formidableform.php:1497
+#: includes/widgets/class-formidableform.php:1591
+#: includes/widgets/class-formidableform.php:1741
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: includes/extras/class-themestyleextrabutton.php:129
+#: includes/extras/class-themestyleextrabutton.php:194
+#: includes/widgets/class-cookieconsentpopup.php:367
+#: includes/widgets/class-cookieconsentpopup.php:694
+#: includes/widgets/class-formassembly.php:343
+#: includes/widgets/class-formassembly.php:696
+#: includes/widgets/class-formassembly.php:1135
+#: includes/widgets/class-formidableform.php:283
+#: includes/widgets/class-formidableform.php:645
+#: includes/widgets/class-formidableform.php:1075
+#: includes/widgets/class-formidableform.php:1289
+#: includes/widgets/class-formidableform.php:1445
+#: includes/widgets/class-numberedlist.php:399
+msgid "Border Radius"
+msgstr "Afgeronde hoeken"
+
+#: includes/extras/class-themestyleextrabutton.php:142
+#: includes/widgets/class-cookieconsentpopup.php:642
+#: includes/widgets/class-dynamicfieldlist.php:385
+#: includes/widgets/class-dynamicfieldlist.php:457
+#: includes/widgets/class-footermenu.php:265
+#: includes/widgets/class-footermenu.php:359
+#: includes/widgets/class-footermenu.php:503
+#: includes/widgets/class-formassembly.php:1186
+#: includes/widgets/class-formidableform.php:1490
+#: includes/widgets/class-labellist.php:498
+#: includes/widgets/class-numberedlist.php:437
+msgid "Hover"
+msgstr "Hover"
+
+#: includes/extras/class-themestyleextrabutton.php:208
+#: includes/widgets/class-cookieconsentpopup.php:388
+#: includes/widgets/class-cookieconsentpopup.php:714
+#: includes/widgets/class-dynamicfieldlist.php:504
+#: includes/widgets/class-footermenu.php:206
+#: includes/widgets/class-formassembly.php:610
+#: includes/widgets/class-formassembly.php:1149
+#: includes/widgets/class-formidableform.php:559
+#: includes/widgets/class-formidableform.php:1457
+#: includes/widgets/class-sideboxinfo.php:215
+#: includes/widgets/class-sideboxinfo.php:315
+msgid "Padding"
+msgstr "Padding"
+
+#: includes/widgets/class-cookieconsentpopup.php:34
+msgctxt "Cookie Consent Widget"
+msgid "Cookie Consent Popup"
+msgstr "Pop-up met cookietoestemming"
+
+#: includes/widgets/class-cookieconsentpopup.php:61
+msgid "Type"
+msgstr "Type"
+
+#: includes/widgets/class-cookieconsentpopup.php:67
+msgid "Popup up type"
+msgstr "Soort Popup"
+
+#: includes/widgets/class-cookieconsentpopup.php:77
+#: includes/widgets/class-cookieconsentpopup.php:87
+msgid "Banner below"
+msgstr "Banner onderaan"
+
+#: includes/widgets/class-cookieconsentpopup.php:78
+msgid "Banner centered"
+msgstr "Banner gecentreerd"
+
+#: includes/widgets/class-cookieconsentpopup.php:79
+msgid "Banner top"
+msgstr "Banner aan  bovenzijde"
+
+#: includes/widgets/class-cookieconsentpopup.php:98
+msgid "Layout options"
+msgstr "Indelingsopties"
+
+#: includes/widgets/class-cookieconsentpopup.php:107
+msgid "Vertical"
+msgstr "Verticaal"
+
+#: includes/widgets/class-cookieconsentpopup.php:108
+#: includes/widgets/class-cookieconsentpopup.php:116
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+#: includes/widgets/class-cookieconsentpopup.php:127
+msgid "Use backgroundlayer"
+msgstr "Achtergrondlaag gebruiken"
+
+#: includes/widgets/class-cookieconsentpopup.php:144
+#: includes/widgets/class-sideboxinfo.php:282
+msgid "Content"
+msgstr "Inhoud"
+
+#: includes/widgets/class-cookieconsentpopup.php:152
+#: includes/widgets/class-maximumcontentlength.php:162
+msgid "Text field"
+msgstr "Tekst veld"
+
+#: includes/widgets/class-cookieconsentpopup.php:155
+msgid "Enter text for inside the popup"
+msgstr "Tekst invoeren voor in de pop-up"
+
+#: includes/widgets/class-cookieconsentpopup.php:162
+msgid "Text accept button"
+msgstr "Knop Tekst accepteren"
+
+#: includes/widgets/class-cookieconsentpopup.php:165
+msgid "Save settings"
+msgstr "Instellingen opslaan"
+
+#: includes/widgets/class-cookieconsentpopup.php:171
+msgid "Text functional cookie"
+msgstr "Tekst functionele cookie"
+
+#: includes/widgets/class-cookieconsentpopup.php:174
+msgid "Enter text for functional cookies"
+msgstr "Voer tekst in voor functionele cookies"
+
+#: includes/widgets/class-cookieconsentpopup.php:175
+msgid "Accept functional cookies"
+msgstr "Tekst voor accepteren van functionele cookies"
+
+#: includes/widgets/class-cookieconsentpopup.php:181
+msgid "Text analytical cookie"
+msgstr "Tekst analytische cookie"
+
+#: includes/widgets/class-cookieconsentpopup.php:184
+msgid "Enter text for analytical cookies"
+msgstr "Voer tekst in voor analytische cookies"
+
+#: includes/widgets/class-cookieconsentpopup.php:185
+msgid "Accept analytical cookies"
+msgstr "Tekst voor accepteren van Analytische cookies"
+
+#: includes/widgets/class-cookieconsentpopup.php:191
+msgid "Text advertisment/third-party cookie"
+msgstr "Tekst advertentie/cookie van derden"
+
+#: includes/widgets/class-cookieconsentpopup.php:194
+msgid "Enter text for advertisement cookies"
+msgstr "Voer tekst in voor advertentiecookies"
+
+#: includes/widgets/class-cookieconsentpopup.php:195
+msgid "Accept advertisment/third party cookies"
+msgstr "Tekst voor accepteren van advertentiecookies/cookies van derden"
+
+#: includes/widgets/class-cookieconsentpopup.php:203
+msgid "Default cookie settings"
+msgstr "Standaard cookie-instellingen"
+
+#: includes/widgets/class-cookieconsentpopup.php:211
+msgid "Default functional cookie settings "
+msgstr "Standaard instellingen functionele cookies "
+
+#: includes/widgets/class-cookieconsentpopup.php:216
+#: includes/widgets/class-cookieconsentpopup.php:246
+#: includes/widgets/class-cookieconsentpopup.php:276
+msgid "Always allowed"
+msgstr "Altijd toegestaan"
+
+#: includes/widgets/class-cookieconsentpopup.php:217
+#: includes/widgets/class-cookieconsentpopup.php:247
+#: includes/widgets/class-cookieconsentpopup.php:277
+msgid "Allowed"
+msgstr "Toegestaan"
+
+#: includes/widgets/class-cookieconsentpopup.php:218
+#: includes/widgets/class-cookieconsentpopup.php:248
+#: includes/widgets/class-cookieconsentpopup.php:278
+msgid "Not allowed"
+msgstr "Niet toegestaan"
+
+#: includes/widgets/class-cookieconsentpopup.php:225
+msgid "Show checkbox option for functional cookies"
+msgstr "Toon selectievakje voor functionele cookies"
+
+#: includes/widgets/class-cookieconsentpopup.php:241
+msgid "Default analytical cookie settings "
+msgstr "Standaard instellingen analytische cookie "
+
+#: includes/widgets/class-cookieconsentpopup.php:255
+msgid "Show checkbox option for analytical cookies"
+msgstr "Toon selectievakje voor analytische cookies"
+
+#: includes/widgets/class-cookieconsentpopup.php:271
+msgid "Default advertisement/third-party cookie settings "
+msgstr "Standaard instellingen advertentiecookies/cookies van derden "
+
+#: includes/widgets/class-cookieconsentpopup.php:286
+msgid "Show checkbox option for advertisement/third-party cookies"
+msgstr "Toon selectievakjeoptie voor advertenties/cookies van derden"
+
+#: includes/widgets/class-cookieconsentpopup.php:298
+#: includes/widgets/class-cookieconsentpopup.php:305
+msgid "Hide popup on pages"
+msgstr "Pop-up verbergen op de volgende pagina's"
+
+#: includes/widgets/class-cookieconsentpopup.php:309
+msgid "Enter pageid's here (separated by ,)."
+msgstr "Voer pageid's hier in (gescheiden door ,)."
+
+#: includes/widgets/class-cookieconsentpopup.php:317
+msgid "Popup"
+msgstr "Popup"
+
+#: includes/widgets/class-cookieconsentpopup.php:325
+msgid "Color background popup"
+msgstr "Achtergrondkleur popup"
+
+#: includes/widgets/class-cookieconsentpopup.php:340
+msgid "Color background layer"
+msgstr "Achtergrondkleur achtergrond"
+
+#: includes/widgets/class-cookieconsentpopup.php:380
+msgid "Border shadow"
+msgstr "Rand schaduw"
+
+#: includes/widgets/class-cookieconsentpopup.php:400
+#: includes/widgets/class-formassembly.php:927
+#: includes/widgets/class-formidableform.php:871
+#: includes/widgets/class-formidableform.php:992
+#: includes/widgets/class-formidableform.php:1087
+#: includes/widgets/class-formidableform.php:1206
+msgid "Margin"
+msgstr "Marge"
+
+#: includes/widgets/class-cookieconsentpopup.php:413
+#: includes/widgets/class-dynamicfieldlist.php:125
+#: includes/widgets/class-dynamicfieldlist.php:362
+#: includes/widgets/class-labellist.php:138
+#: includes/widgets/class-labellist.php:474
+#: includes/widgets/class-numberedlist.php:125
+#: includes/widgets/class-numberedlist.php:413
+msgid "Text"
+msgstr "Tekst"
+
+#: includes/widgets/class-cookieconsentpopup.php:421
+msgid "Text typography"
+msgstr "Typografie tekst"
+
+#: includes/widgets/class-cookieconsentpopup.php:445
+#: includes/widgets/class-cookieconsentpopup.php:551
+#: includes/widgets/class-dynamicfieldlist.php:312
+#: includes/widgets/class-formassembly.php:513
+#: includes/widgets/class-formassembly.php:1008
+#: includes/widgets/class-formidableform.php:325
+#: includes/widgets/class-formidableform.php:462
+#: includes/widgets/class-formidableform.php:1352
+#: includes/widgets/class-labellist.php:229
+#: includes/widgets/class-labellist.php:447
+#: includes/widgets/class-labellist.php:575
+#: includes/widgets/class-maximumcontentlength.php:220
+#: includes/widgets/class-numberedlist.php:250
+msgid "Alignment"
+msgstr "Uitlijning"
+
+#: includes/widgets/class-cookieconsentpopup.php:449
+#: includes/widgets/class-cookieconsentpopup.php:555
+#: includes/widgets/class-dynamicfieldlist.php:316
+#: includes/widgets/class-footermenu.php:150
+#: includes/widgets/class-formassembly.php:252
+#: includes/widgets/class-formassembly.php:517
+#: includes/widgets/class-formassembly.php:1012
+#: includes/widgets/class-formidableform.php:192
+#: includes/widgets/class-formidableform.php:329
+#: includes/widgets/class-formidableform.php:466
+#: includes/widgets/class-formidableform.php:1356
+#: includes/widgets/class-labellist.php:233
+#: includes/widgets/class-labellist.php:451
+#: includes/widgets/class-labellist.php:582
+#: includes/widgets/class-maximumcontentlength.php:224
+#: includes/widgets/class-numberedlist.php:254
+#: includes/widgets/class-sideboxinfo.php:119
+#: includes/widgets/class-sideboxinfo.php:130
+#: includes/widgets/class-totop.php:86 includes/widgets/class-totop.php:98
+msgid "Left"
+msgstr "Links"
+
+#: includes/widgets/class-cookieconsentpopup.php:453
+#: includes/widgets/class-cookieconsentpopup.php:559
+#: includes/widgets/class-dynamicfieldlist.php:281
+#: includes/widgets/class-dynamicfieldlist.php:320
+#: includes/widgets/class-footermenu.php:154
+#: includes/widgets/class-formassembly.php:256
+#: includes/widgets/class-formassembly.php:521
+#: includes/widgets/class-formassembly.php:1016
+#: includes/widgets/class-formidableform.php:196
+#: includes/widgets/class-formidableform.php:333
+#: includes/widgets/class-formidableform.php:470
+#: includes/widgets/class-formidableform.php:1360
+#: includes/widgets/class-labellist.php:237
+#: includes/widgets/class-labellist.php:455
+#: includes/widgets/class-labellist.php:586
+#: includes/widgets/class-maximumcontentlength.php:228
+#: includes/widgets/class-numberedlist.php:258
+msgid "Center"
+msgstr "Midden"
+
+#: includes/widgets/class-cookieconsentpopup.php:457
+#: includes/widgets/class-cookieconsentpopup.php:563
+#: includes/widgets/class-dynamicfieldlist.php:324
+#: includes/widgets/class-footermenu.php:158
+#: includes/widgets/class-formassembly.php:260
+#: includes/widgets/class-formassembly.php:525
+#: includes/widgets/class-formassembly.php:1020
+#: includes/widgets/class-formidableform.php:200
+#: includes/widgets/class-formidableform.php:337
+#: includes/widgets/class-formidableform.php:474
+#: includes/widgets/class-formidableform.php:1364
+#: includes/widgets/class-labellist.php:241
+#: includes/widgets/class-labellist.php:459
+#: includes/widgets/class-labellist.php:590
+#: includes/widgets/class-maximumcontentlength.php:232
+#: includes/widgets/class-numberedlist.php:262
+#: includes/widgets/class-sideboxinfo.php:120
+#: includes/widgets/class-sideboxinfo.php:435
+#: includes/widgets/class-totop.php:88 includes/widgets/class-totop.php:99
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/widgets/class-cookieconsentpopup.php:461
+#: includes/widgets/class-maximumcontentlength.php:236
+msgid "Justified"
+msgstr "Uitgelijnd"
+
+#: includes/widgets/class-cookieconsentpopup.php:476
+msgid "Checkboxes"
+msgstr "Keuzevakjes"
+
+#: includes/widgets/class-cookieconsentpopup.php:483
+msgid "Checkbox typography"
+msgstr "Typografie"
+
+#: includes/widgets/class-cookieconsentpopup.php:495
+#: includes/widgets/class-cookieconsentpopup.php:539
+msgid "Checkbox text Color"
+msgstr "Tekst kleur"
+
+#: includes/widgets/class-cookieconsentpopup.php:506
+msgid "Backgroundcolor allowed "
+msgstr "Achtergrondkleur toegestaan "
+
+#: includes/widgets/class-cookieconsentpopup.php:517
+msgid "Backgroundcolor not allowed "
+msgstr "Achtergrondkleur niet toegestaan "
+
+#: includes/widgets/class-cookieconsentpopup.php:528
+msgid "Backgroundcolor disabled "
+msgstr "Achtergrondkleur uitgeschakeld "
+
+#: includes/widgets/class-cookieconsentpopup.php:578
+msgid "Button"
+msgstr "Knop"
+
+#: includes/widgets/class-cookieconsentpopup.php:672
+msgid "Hover Animation"
+msgstr "Hover Animatie"
+
+#: includes/widgets/class-dynamicfieldlist.php:51
+msgid "Dynamic field list"
+msgstr ""
+
+#: includes/widgets/class-dynamicfieldlist.php:116
+msgid "Dynamic Field List"
+msgstr ""
+
+#: includes/widgets/class-dynamicfieldlist.php:128
+#: includes/widgets/class-dynamicfieldlist.php:129
+#: includes/widgets/class-numberedlist.php:128
+#: includes/widgets/class-numberedlist.php:129
+msgid "Numbered Item"
+msgstr "Genummerd item"
+
+#: includes/widgets/class-dynamicfieldlist.php:139
+#: includes/widgets/class-dynamicfieldlist.php:434
+#: includes/widgets/class-labellist.php:152
+#: includes/widgets/class-numberedlist.php:139
+msgid "Link"
+msgstr "Link URL"
+
+#: includes/widgets/class-dynamicfieldlist.php:144
+#: includes/widgets/class-labellist.php:157
+#: includes/widgets/class-numberedlist.php:144
+msgid "https://your-link.com"
+msgstr "https://jouw-link.nl"
+
+#: includes/widgets/class-dynamicfieldlist.php:151
+#: includes/widgets/class-labellist.php:164
+#: includes/widgets/class-numberedlist.php:151
+msgid "Hide list item when text is empty"
+msgstr "Lijstitem verbergen wanneer tekst leeg is"
+
+#: includes/widgets/class-dynamicfieldlist.php:153
+#: includes/widgets/class-labellist.php:166
+#: includes/widgets/class-numberedlist.php:153
+msgid "Show"
+msgstr "Toon"
+
+#: includes/widgets/class-dynamicfieldlist.php:154
+#: includes/widgets/class-labellist.php:167
+#: includes/widgets/class-numberedlist.php:154
+msgid "Hide"
+msgstr "Verberg"
+
+#: includes/widgets/class-dynamicfieldlist.php:161
+#: includes/widgets/class-labellist.php:174
+#: includes/widgets/class-numberedlist.php:161
+msgid "Items"
+msgstr "Items"
+
+#: includes/widgets/class-dynamicfieldlist.php:165
+#: includes/widgets/class-numberedlist.php:166
+msgid "List Item #1"
+msgstr "Lijst item #1"
+
+#: includes/widgets/class-dynamicfieldlist.php:166
+#: includes/widgets/class-numberedlist.php:169
+msgid "List Item #2"
+msgstr "Lijst item #2"
+
+#: includes/widgets/class-dynamicfieldlist.php:167
+#: includes/widgets/class-numberedlist.php:172
+msgid "List Item #3"
+msgstr "Lijst item #3"
+
+#: includes/widgets/class-dynamicfieldlist.php:174
+msgid "Type of separator"
+msgstr "Afscheidingstype"
+
+#: includes/widgets/class-dynamicfieldlist.php:184
+#: includes/widgets/class-dynamicfieldlist.php:199
+msgid "Single space"
+msgstr "Enkele spatie"
+
+#: includes/widgets/class-dynamicfieldlist.php:188
+#: includes/widgets/class-dynamicfieldlist.php:203
+msgid "No separator"
+msgstr "Geen scheidingsteken"
+
+#: includes/widgets/class-dynamicfieldlist.php:189
+#: includes/widgets/class-dynamicfieldlist.php:217
+#: includes/widgets/class-dynamicfieldlist.php:236
+msgid "Custom separator"
+msgstr "Aangepast scheidingsteken"
+
+#: includes/widgets/class-dynamicfieldlist.php:237
+msgid "Pro users have the ability to add a custom separator."
+msgstr ""
+"Pro-gebruikers hebben de mogelijkheid om een aangepast scheidingsteken toe "
+"te voegen."
+
+#: includes/widgets/class-dynamicfieldlist.php:246
+#: includes/widgets/class-footermenu.php:73
+msgid "Layout"
+msgstr "Indeling"
+
+#: includes/widgets/class-dynamicfieldlist.php:251
+msgid "Inline"
+msgstr "Inline"
+
+#: includes/widgets/class-dynamicfieldlist.php:255
+#: includes/widgets/class-formassembly.php:248
+#: includes/widgets/class-formidableform.php:188
+msgid "Default"
+msgstr "Standaard"
+
+#: includes/widgets/class-dynamicfieldlist.php:273
+msgid "Item Alignment"
+msgstr "Uitlijning"
+
+#: includes/widgets/class-dynamicfieldlist.php:277
+msgid "Start"
+msgstr "Start"
+
+#: includes/widgets/class-dynamicfieldlist.php:285
+msgid "End"
+msgstr "Eind"
+
+#: includes/widgets/class-dynamicfieldlist.php:289
+msgid "Stretch"
+msgstr "Uitrekken"
+
+#: includes/widgets/class-dynamicfieldlist.php:341
+#: includes/widgets/class-footermenu.php:298
+#: includes/widgets/class-footermenu.php:407
+msgid "Vertical Padding"
+msgstr "Verticale padding"
+
+#: includes/widgets/class-dynamicfieldlist.php:397
+#: includes/widgets/class-footermenu.php:391
+#: includes/widgets/class-formassembly.php:622
+#: includes/widgets/class-formidableform.php:571
+#: includes/widgets/class-labellist.php:511
+#: includes/widgets/class-numberedlist.php:450
+msgid "Text Indent"
+msgstr "Tekst inspringen"
+
+#: includes/widgets/class-dynamicfieldlist.php:482
+msgid "Separator"
+msgstr "Scheidingsteken"
+
+#: includes/widgets/class-footermenu.php:33
+msgid "Footermenu"
+msgstr "Footermenu"
+
+#: includes/widgets/class-footermenu.php:84
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/widgets/class-footermenu.php:92
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+"Ga naar <a href=\"%s\" target=\"_blank\">het menu scherm</a> om uw menu's te "
+"beheren."
+
+#: includes/widgets/class-footermenu.php:105
+msgid "There are no menus in your site."
+msgstr "Er zijn geen menu's in uw site."
+
+#: includes/widgets/class-footermenu.php:109
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+"Ga naar <a href=\"%s\" target=\"_blank\">het scherm Menu's</a> om er een te "
+"maken."
+
+#: includes/widgets/class-footermenu.php:122
+#: includes/widgets/class-footermenu.php:198
+msgid "Columns"
+msgstr "Kolommen"
+
+#: includes/widgets/class-footermenu.php:146
+msgid "Align menuitems"
+msgstr "Menuitems uitlijnen"
+
+#: includes/widgets/class-footermenu.php:179
+#: includes/widgets/class-footermenu.php:434
+msgid "Icon"
+msgstr "Icoon"
+
+#: includes/widgets/class-footermenu.php:222
+msgid "Header item"
+msgstr "Hoofd item"
+
+#: includes/widgets/class-footermenu.php:317
+msgid "Submenu item"
+msgstr "Submenu item"
+
+#: includes/widgets/class-footermenu.php:442
+#: includes/widgets/class-formassembly.php:904
+#: includes/widgets/class-formassembly.php:956
+#: includes/widgets/class-formidableform.php:946
+#: includes/widgets/class-formidableform.php:1160
+msgid "Size"
+msgstr "Grootte"
+
+#: includes/widgets/class-footermenu.php:487
+#: includes/widgets/class-footermenu.php:510
+msgid "Icon Color"
+msgstr "Kleur icoon"
+
+#: includes/widgets/class-formassembly.php:53
+msgid "FormAssembly forms"
+msgstr "FormAssembly-formulieren"
+
+#: includes/widgets/class-formassembly.php:108
+#: includes/widgets/class-formidableform.php:71
+msgid "Form settings"
+msgstr "Formulier instellingen"
+
+#: includes/widgets/class-formassembly.php:115
+msgid "Form assembly url"
+msgstr "Url voor formulierassemblage"
+
+#: includes/widgets/class-formassembly.php:124
+msgid "Form type"
+msgstr "Formuliertype"
+
+#: includes/widgets/class-formassembly.php:127
+msgid "Form"
+msgstr "Formulier"
+
+#: includes/widgets/class-formassembly.php:128
+msgid "Workflow"
+msgstr "Workflow"
+
+#: includes/widgets/class-formassembly.php:136
+msgid "Form id"
+msgstr "Formulier-id"
+
+#: includes/widgets/class-formassembly.php:143
+msgid "Prefill field parameters"
+msgstr "Velden vooraf invullen met url parameters"
+
+#: includes/widgets/class-formassembly.php:147
+msgid ""
+"Prefill the form based on url request parameters. Add a comma between the "
+"different fields. See <a href=\"https://help.formassembly.com/help/prefill-"
+"through-the-url\" target=\"_blank\">https://help.formassembly.com/help/"
+"prefill-through-the-url</a> for more information"
+msgstr ""
+"Vul het formulier vooraf in op basis van url-parameters. Voeg een komma toe "
+"tussen de verschillende velden. Zie <a href=\"https://help.formassembly.com/"
+"help/prefill-through-the-url\" target=\"_blank\">https://help.formassembly."
+"com/help/prefill-through-the-url</a> voor meer informatie"
+
+#: includes/widgets/class-formassembly.php:154
+msgid "Use iFrame"
+msgstr "iFrame gebruiken"
+
+#: includes/widgets/class-formassembly.php:158
+msgid "Styling can only be used if iFrame is set to no."
+msgstr ""
+"Styling kan alleen worden gebruikt wanneer  iFrame op nee is ingesteld."
+
+#: includes/widgets/class-formassembly.php:164
+msgid "Iframe Style"
+msgstr "Iframe-stijl"
+
+#: includes/widgets/class-formassembly.php:182
+msgid "Iframe"
+msgstr "Iframe"
+
+#: includes/widgets/class-formassembly.php:193
+msgid "Form is set to iFrame"
+msgstr "Formulier is ingesteld op iFrame"
+
+#: includes/widgets/class-formassembly.php:197
+msgid "Styling is disabled if Iframe is used."
+msgstr "Styling is uitgeschakeld wanneer Iframe wordt gebruikt."
+
+#: includes/widgets/class-formassembly.php:212
+#: includes/widgets/class-formidableform.php:164
+msgid "Form Container"
+msgstr "Formulier container"
+
+#: includes/widgets/class-formassembly.php:224
+#: includes/widgets/class-formidableform.php:172
+msgid "Form Background Color"
+msgstr "Achtergrondkleur formulier"
+
+#: includes/widgets/class-formassembly.php:243
+#: includes/widgets/class-formidableform.php:183
+msgid "Form Alignment"
+msgstr "Uitlijning formulier"
+
+#: includes/widgets/class-formassembly.php:275
+#: includes/widgets/class-formidableform.php:215
+msgid "Form Width"
+msgstr "Breedte Forumlier"
+
+#: includes/widgets/class-formassembly.php:297
+#: includes/widgets/class-formidableform.php:237
+msgid "Form Max Width"
+msgstr "Max. Breedte Formulier"
+
+#: includes/widgets/class-formassembly.php:319
+#: includes/widgets/class-formidableform.php:259
+msgid "Form Margin"
+msgstr "Formuliermarge"
+
+#: includes/widgets/class-formassembly.php:331
+#: includes/widgets/class-formidableform.php:271
+msgid "Form Padding"
+msgstr "Formulier Padding"
+
+#: includes/widgets/class-formassembly.php:377
+msgid "Section Title & Border"
+msgstr "Sectie Titel & Rand"
+
+#: includes/widgets/class-formassembly.php:388
+#: includes/widgets/class-formidableform.php:352
+#: includes/widgets/class-sideboxinfo.php:176
+msgid "Title"
+msgstr "Titel"
+
+#: includes/widgets/class-formassembly.php:429
+msgid "Section border"
+msgstr "Sectierand"
+
+#: includes/widgets/class-formassembly.php:445
+#: includes/widgets/class-formidableform.php:420
+msgid "Labels"
+msgstr "Labels"
+
+#: includes/widgets/class-formassembly.php:471
+msgid "Required Sign Color"
+msgstr "Vereiste teken kleur"
+
+#: includes/widgets/class-formassembly.php:502
+#: includes/widgets/class-formidableform.php:454
+msgid "Input & Textarea & Select"
+msgstr "Input & Textarea & Dropdowns"
+
+#: includes/widgets/class-formassembly.php:572
+#: includes/widgets/class-formassembly.php:829
+#: includes/widgets/class-formidableform.php:521
+#: includes/widgets/class-formidableform.php:755
+msgid "Spacing"
+msgstr "Tussenruimte"
+
+#: includes/widgets/class-formassembly.php:591
+#: includes/widgets/class-formidableform.php:540
+msgid "Spacing Right"
+msgstr "Tussenruimte rechts"
+
+#: includes/widgets/class-formassembly.php:646
+#: includes/widgets/class-formidableform.php:595
+msgid "Input Height"
+msgstr "Hoogte invoerveld"
+
+#: includes/widgets/class-formassembly.php:665
+#: includes/widgets/class-formidableform.php:614
+msgid "Select Height"
+msgstr "Hoogte dropdown"
+
+#: includes/widgets/class-formassembly.php:729
+#: includes/widgets/class-formidableform.php:678
+msgid "Focus"
+msgstr "Focus"
+
+#: includes/widgets/class-formassembly.php:778
+#: includes/widgets/class-formidableform.php:727
+msgid "Field Description"
+msgstr "Veld beschrijving"
+
+#: includes/widgets/class-formassembly.php:864
+#: includes/widgets/class-formidableform.php:890
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: includes/widgets/class-formassembly.php:893
+#: includes/widgets/class-formidableform.php:916
+#: includes/widgets/class-formidableform.php:1067
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: includes/widgets/class-formassembly.php:945
+#: includes/widgets/class-formidableform.php:1130
+msgid "Radio"
+msgstr "Keuzerondje"
+
+#: includes/widgets/class-formassembly.php:979
+#: includes/widgets/class-formidableform.php:1301
+msgid "Radio button margin"
+msgstr "Marge Keuzerondjes"
+
+#: includes/widgets/class-formassembly.php:997
+#: includes/widgets/class-formidableform.php:1344
+msgid "Submit Button"
+msgstr "Verzendknop"
+
+#: includes/widgets/class-formassembly.php:1036
+#: includes/widgets/class-formidableform.php:1378
+#: includes/widgets/class-labellist.php:310
+#: includes/widgets/class-numberedlist.php:331
+#: includes/widgets/class-sideboxinfo.php:290
+msgid "Width"
+msgstr "Breedte"
+
+#: includes/widgets/class-formassembly.php:1163
+#: includes/widgets/class-formidableform.php:1469
+msgid "Margin Top"
+msgstr "Marge Boven"
+
+#: includes/widgets/class-formassembly.php:1221
+#: includes/widgets/class-formassembly.php:1288
+#: includes/widgets/class-formidableform.php:856
+#: includes/widgets/class-formidableform.php:1055
+#: includes/widgets/class-formidableform.php:1269
+#: includes/widgets/class-formidableform.php:1521
+#: includes/widgets/class-formidableform.php:1603
+#: includes/widgets/class-formidableform.php:1753
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: includes/widgets/class-formassembly.php:1245
+#: includes/widgets/class-formidableform.php:1563
+msgid "Errors"
+msgstr "Fouten"
+
+#: includes/widgets/class-formassembly.php:1256
+#: includes/widgets/class-formidableform.php:1571
+msgid "Error alert box"
+msgstr "Foutwaarschuwingsvak"
+
+#: includes/widgets/class-formassembly.php:1310
+#: includes/widgets/class-formidableform.php:1625
+msgid "Fields validation errors"
+msgstr "Foutmeldingsvelden"
+
+#: includes/widgets/class-formassembly.php:1319
+msgid "Field Errortext Color"
+msgstr "Kleur veld fouttekst"
+
+#: includes/widgets/class-formassembly.php:1331
+#: includes/widgets/class-formidableform.php:1646
+msgid "Field Input Border Color"
+msgstr "Kleur rand invoerveld"
+
+#: includes/widgets/class-formassembly.php:1347
+#: includes/widgets/class-formidableform.php:1673
+msgid "Field Input Border Width"
+msgstr "Breedte  rand invoerveld"
+
+#: includes/widgets/class-formidableform.php:31
+msgid "Formidable Forms"
+msgstr "Formidable Forms"
+
+#: includes/widgets/class-formidableform.php:79
+msgid "Formidable form"
+msgstr "Formidable form"
+
+#: includes/widgets/class-formidableform.php:89
+msgid "Edit form"
+msgstr "Bewerk formulier"
+
+#: includes/widgets/class-formidableform.php:108
+msgid "Show form title"
+msgstr "Formulier-titel weergeven"
+
+#: includes/widgets/class-formidableform.php:117
+msgid "Show form description"
+msgstr "Formulier-beschrijving weergeven"
+
+#: includes/widgets/class-formidableform.php:126
+msgid "Minimize form HTML"
+msgstr "Minimaliseer HTML van het formulier"
+
+#: includes/widgets/class-formidableform.php:127
+msgid ""
+"This will remove extra white space in your form HTML that is added if your "
+"form is double-filtered by another plugin or your theme."
+msgstr ""
+"Dit haalt alle extra witruimte weg uit je HTML formulier als je formulier "
+"dubbel gefilters is door een andere plugin in je thema."
+
+#: includes/widgets/class-formidableform.php:136
+msgid "Include fields"
+msgstr "Inclusief velden"
+
+#: includes/widgets/class-formidableform.php:138
+msgid ""
+"Specify which fields to include in your form. Use a comma-separated list of "
+"field keys or ids."
+msgstr ""
+"Geef op welke velden in het formulier moeten worden opgenomen. Gebruik een "
+"door komma's gescheiden lijst met veld sleutels of id's."
+
+#: includes/widgets/class-formidableform.php:147
+msgid "Exclude fields"
+msgstr "Exclusief velden"
+
+#: includes/widgets/class-formidableform.php:149
+msgid ""
+"Exclude specific fields from your form. Use a comma-separated list of field "
+"keys or ids."
+msgstr ""
+"Specifieke velden uitsluiten van uw formulier. Gebruik een door komma's "
+"gescheiden lijst met veld sleutels of id's."
+
+#: includes/widgets/class-formidableform.php:317
+msgid "Title & Description"
+msgstr "Titel & omschrijving"
+
+#: includes/widgets/class-formidableform.php:383
+msgid "Description"
+msgstr "Omschrijving"
+
+#: includes/widgets/class-formidableform.php:780
+msgid "Section Field"
+msgstr "Sectie veld"
+
+#: includes/widgets/class-formidableform.php:811
+msgid "Border Type"
+msgstr "Rand Type"
+
+#: includes/widgets/class-formidableform.php:815
+msgid "None"
+msgstr "Geen"
+
+#: includes/widgets/class-formidableform.php:816
+#: includes/widgets/class-labellist.php:269
+msgid "Solid"
+msgstr "Doorgetrokken"
+
+#: includes/widgets/class-formidableform.php:817
+#: includes/widgets/class-labellist.php:270
+msgid "Double"
+msgstr "Dubbel"
+
+#: includes/widgets/class-formidableform.php:818
+#: includes/widgets/class-labellist.php:271
+msgid "Dotted"
+msgstr "Gestippeld"
+
+#: includes/widgets/class-formidableform.php:819
+#: includes/widgets/class-labellist.php:272
+msgid "Dashed"
+msgstr "Gestreept"
+
+#: includes/widgets/class-formidableform.php:831
+msgid "Border Height"
+msgstr "Hoogte rand"
+
+#: includes/widgets/class-formidableform.php:924
+#: includes/widgets/class-formidableform.php:1138
+#: includes/widgets/class-labellist.php:266
+msgid "Style"
+msgstr "Stijl"
+
+#: includes/widgets/class-formidableform.php:928
+#: includes/widgets/class-formidableform.php:1142
+msgid "Single line"
+msgstr "Enkele lijn"
+
+#: includes/widgets/class-formidableform.php:932
+#: includes/widgets/class-formidableform.php:1146
+msgid "Multiple lines"
+msgstr "Meerdere lijnen"
+
+#: includes/widgets/class-formidableform.php:969
+#: includes/widgets/class-formidableform.php:1183
+msgid "Check Size"
+msgstr "Grootte vinkje"
+
+#: includes/widgets/class-formidableform.php:1024
+#: includes/widgets/class-formidableform.php:1108
+#: includes/widgets/class-formidableform.php:1238
+#: includes/widgets/class-formidableform.php:1322
+#: includes/widgets/class-labellist.php:356
+#: includes/widgets/class-sideboxinfo.php:194
+#: includes/widgets/class-sideboxinfo.php:374
+msgid "Color"
+msgstr "Kleur"
+
+#: includes/widgets/class-formidableform.php:1036
+#: includes/widgets/class-formidableform.php:1250
+msgid "Border Width"
+msgstr "Rand breedte"
+
+#: includes/widgets/class-formidableform.php:1101
+#: includes/widgets/class-formidableform.php:1315
+msgid "Checked"
+msgstr "Geselecteerd"
+
+#: includes/widgets/class-formidableform.php:1281
+msgid "Radio Buttons"
+msgstr "Keuzerondjes"
+
+#: includes/widgets/class-formidableform.php:1634
+msgid "Field Label Color"
+msgstr "Veld label kleur"
+
+#: includes/widgets/class-formidableform.php:1703
+msgid "Description Color"
+msgstr "Kleur Omschrijving"
+
+#: includes/widgets/class-formidableform.php:1721
+msgid "Thank You Message"
+msgstr "Bedankbericht"
+
+#: includes/widgets/class-labellist.php:49
+#: includes/widgets/class-labellist.php:115
+msgid "Label List"
+msgstr "Labellijst"
+
+#: includes/widgets/class-labellist.php:124
+#: includes/widgets/class-labellist.php:127
+#: includes/widgets/class-labellist.php:128
+#: includes/widgets/class-labellist.php:376
+msgid "Label"
+msgstr "Label"
+
+#: includes/widgets/class-labellist.php:141
+#: includes/widgets/class-labellist.php:142
+#: includes/widgets/class-labellist.php:180
+#: includes/widgets/class-labellist.php:184
+#: includes/widgets/class-labellist.php:188
+msgid "List Item"
+msgstr "Lijst Item"
+
+#: includes/widgets/class-labellist.php:179
+msgid "Label #1"
+msgstr "Label #1"
+
+#: includes/widgets/class-labellist.php:183
+msgid "Label #2"
+msgstr "Label #2"
+
+#: includes/widgets/class-labellist.php:187
+msgid "Label #3"
+msgstr "Label #3"
+
+#: includes/widgets/class-labellist.php:200
+msgid "List"
+msgstr "Lijst"
+
+#: includes/widgets/class-labellist.php:208
+#: includes/widgets/class-numberedlist.php:229
+msgid "Space Between"
+msgstr "Ruimte tussen"
+
+#: includes/widgets/class-labellist.php:252
+msgid "Divider"
+msgstr "Scheidingslijn"
+
+#: includes/widgets/class-labellist.php:254
+msgid "Off"
+msgstr "Uit"
+
+#: includes/widgets/class-labellist.php:255
+msgid "On"
+msgstr "Aan"
+
+#: includes/widgets/class-labellist.php:287
+msgid "Weight"
+msgstr "Gewicht"
+
+#: includes/widgets/class-labellist.php:328
+#: includes/widgets/class-numberedlist.php:357
+#: includes/widgets/class-sideboxinfo.php:237
+msgid "Height"
+msgstr "Hoogte"
+
+#: includes/widgets/class-labellist.php:399
+msgid "Label width"
+msgstr "Labelbreedte"
+
+#: includes/widgets/class-labellist.php:527
+#: includes/widgets/class-numberedlist.php:466
+msgid "Text width"
+msgstr "Tekstbreedte"
+
+#: includes/widgets/class-maximumcontentlength.php:38
+msgid "Maximum Content Length Widget"
+msgstr "Maximum tekstveld widget"
+
+#: includes/widgets/class-maximumcontentlength.php:153
+msgid "Text settings"
+msgstr "Tekst instellingen"
+
+#: includes/widgets/class-maximumcontentlength.php:164
+msgid "Set the field of the text"
+msgstr "Het veld van de tekst instellen"
+
+#: includes/widgets/class-maximumcontentlength.php:176
+msgid "Number of maximal characters"
+msgstr "Aantal maximale tekens"
+
+#: includes/widgets/class-maximumcontentlength.php:186
+msgid "End tag of content"
+msgstr "Eindtag van inhoud"
+
+#: includes/widgets/class-maximumcontentlength.php:201
+msgid "Strip all HTML tags?"
+msgstr "Alle HTML-tags strippen?"
+
+#: includes/widgets/class-maximumcontentlength.php:212
+msgid "Text Editor"
+msgstr "Tekst Bewerker"
+
+#: includes/widgets/class-menuanchorwithoffset.php:45
+msgid "Menu Anchor With Offset"
+msgstr "Menuanker met verschuiving"
+
+#: includes/widgets/class-menuanchorwithoffset.php:89
+msgid "Anchor"
+msgstr "Anker"
+
+#: includes/widgets/class-menuanchorwithoffset.php:97
+msgid "The ID of Menu Anchor."
+msgstr "Het ID van het anker."
+
+#: includes/widgets/class-menuanchorwithoffset.php:99
+msgid "For Example: About"
+msgstr "Bijvoorbeeld: Over"
+
+#: includes/widgets/class-menuanchorwithoffset.php:100
+msgid ""
+"This ID will be the CSS ID you will have to use in your own page, Without #."
+msgstr ""
+"Dit ID is het CSS ID dat u moet gebruiken op uw eigen pagina, Zonder #."
+
+#: includes/widgets/class-menuanchorwithoffset.php:109
+#, php-format
+msgid "Note: The ID link ONLY accepts these chars: %s"
+msgstr "Let op: de ID-link accepteert ALLEEN de volgende karakters: %s"
+
+#: includes/widgets/class-menuanchorwithoffset.php:117
+msgid "Anchor offset in pixels"
+msgstr "Verschuiving anker in pixels"
+
+#: includes/widgets/class-menuanchorwithoffset.php:129
+msgid "Anchor Scrolling Speed in ms."
+msgstr "Scrollsnelheid naar Anker in ms."
+
+#: includes/widgets/class-numberedlist.php:51
+#: includes/widgets/class-numberedlist.php:116
+msgid "Numbered List"
+msgstr "Genummerde lijst"
+
+#: includes/widgets/class-numberedlist.php:184
+msgid "Type of ordering"
+msgstr "Type sortering"
+
+#: includes/widgets/class-numberedlist.php:192
+msgid "Select the type of ordering"
+msgstr "Selecteer het type sortering"
+
+#: includes/widgets/class-numberedlist.php:197
+msgid "With numbers"
+msgstr "Met getallen"
+
+#: includes/widgets/class-numberedlist.php:198
+msgid "With numbers with leading zeros"
+msgstr "Met getallen met voorloopnullen"
+
+#: includes/widgets/class-numberedlist.php:199
+msgid "Uppercase letters"
+msgstr "Hoofdletters"
+
+#: includes/widgets/class-numberedlist.php:200
+msgid "Lowercase letters"
+msgstr "Kleine letters"
+
+#: includes/widgets/class-numberedlist.php:201
+msgid "Uppercase roman numbers"
+msgstr "Romeinse cijfers met hoofdletters"
+
+#: includes/widgets/class-numberedlist.php:202
+msgid "Lowercase roman numbers"
+msgstr "Romeinse cijfers met kleine letters"
+
+#: includes/widgets/class-numberedlist.php:213
+msgid "Start count from"
+msgstr "Start telling vanaf"
+
+#: includes/widgets/class-numberedlist.php:275
+msgid "Number"
+msgstr "Nummer"
+
+#: includes/widgets/class-numberedlist.php:283
+msgid "Color background"
+msgstr "Kleur achtergrond"
+
+#: includes/widgets/class-numberedlist.php:297
+msgid "Number color"
+msgstr "Kleur van nummer"
+
+#: includes/widgets/class-sideboxinfo.php:27
+msgctxt "missingwidgets"
+msgid "Information sidebox"
+msgstr "Informatie zijvak"
+
+#: includes/widgets/class-sideboxinfo.php:54
+msgctxt "missingwidgets"
+msgid "Title"
+msgstr "Titel"
+
+#: includes/widgets/class-sideboxinfo.php:58
+msgid "Text title"
+msgstr "Titel van de tekst"
+
+#: includes/widgets/class-sideboxinfo.php:61
+msgid "Information"
+msgstr "Informatie"
+
+#: includes/widgets/class-sideboxinfo.php:68
+msgid "Template"
+msgstr "Sjabloon"
+
+#: includes/widgets/class-sideboxinfo.php:80
+msgid "Choose Template"
+msgstr "Kies Sjabloon"
+
+#: includes/widgets/class-sideboxinfo.php:103
+msgid "Box"
+msgstr "Vak"
+
+#: includes/widgets/class-sideboxinfo.php:109
+#: includes/widgets/class-totop.php:71
+msgid "Position"
+msgstr "Positie"
+
+#: includes/widgets/class-sideboxinfo.php:143
+#: includes/widgets/class-sideboxinfo.php:412
+msgid "Top"
+msgstr "Top"
+
+#: includes/widgets/class-sideboxinfo.php:166
+msgid "Show close icon"
+msgstr "Afsluitknop weergeven"
+
+#: includes/widgets/class-sideboxinfo.php:204
+#: includes/widgets/class-sideboxinfo.php:330
+msgctxt "missingwidgets"
+msgid "Backgroundcolor"
+msgstr "Achtergrondkleur"
+
+#: includes/widgets/class-sideboxinfo.php:260
+#: includes/widgets/class-sideboxinfo.php:341
+msgid "Border-radius"
+msgstr "Afgeronde hoeken"
+
+#: includes/widgets/class-sideboxinfo.php:363
+msgid "Close button"
+msgstr "Afsluitknop"
+
+#: includes/widgets/class-sideboxinfo.php:386
+msgid "Size icon"
+msgstr "Grootte icoon"
+
+#: includes/widgets/class-totop.php:31 includes/widgets/class-totop.php:54
+msgctxt "To top Widget"
+msgid "Scroll to top button"
+msgstr "Scroll naar boven knop"
+
+#: includes/widgets/class-totop.php:62 includes/widgets/class-totop.php:182
+msgctxt "To top Widget"
+msgid "Icon"
+msgstr "Icoon"
+
+#: includes/widgets/class-totop.php:87
+msgid "Middle"
+msgstr "Midden"
+
+#: includes/widgets/class-totop.php:112
+msgctxt "To top Widget"
+msgid "Horizontal padding"
+msgstr "Horizontale padding"
+
+#: includes/widgets/class-totop.php:114
+msgctxt "To top Widget"
+msgid "Distance to the left/right side of the screen"
+msgstr "Afstand tot de linker-/rechterkant van het scherm"
+
+#: includes/widgets/class-totop.php:147
+msgctxt "To top Widget"
+msgid "Vertical padding"
+msgstr "Verticale padding"
+
+#: includes/widgets/class-totop.php:149
+msgctxt "To top Widget"
+msgid "Distance to the bottom of the screen"
+msgstr "Afstand tot de onderkant van het scherm"
+
+#: includes/widgets/class-totop.php:190 includes/widgets/class-totop.php:270
+msgctxt "To top Widget"
+msgid "Size"
+msgstr "Grootte"
+
+#: includes/widgets/class-totop.php:218
+msgctxt "To top Widget"
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: includes/widgets/class-totop.php:230
+msgctxt "To top Widget"
+msgid "Border Radius"
+msgstr "Afgeronde hoeken"
+
+#: includes/widgets/class-totop.php:258
+msgctxt "To top Widget"
+msgid "Color"
+msgstr "Kleur"
+
+#: includes/widgets/class-totop.php:300
+msgctxt "To top Widget"
+msgid "Scroll to top"
+msgstr "Scroll naar boven"
+
+#. Plugin Name of the plugin/theme
+msgid "Missing Widgets for Elementor"
+msgstr "Missing Widgets for Elementor"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://missingwidgets.com/"
+msgstr "https://missingwidgets.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Usefull widgets for Elementor that other widgetbuilders may have missed."
+msgstr "Handige widgets voor Elementor die andere ontwikkelaars zijn vergeten."
+
+#. Author of the plugin/theme
+msgid "Sivard Donkers"
+msgstr "Sivard Donkers"
+
+#~ msgid "Toon sluit icoon"
+#~ msgstr "Toon sluit icoon"
+
+#~ msgid "Form style"
+#~ msgstr "Form style"
+
+#~ msgid "Next/Previous Button"
+#~ msgstr "Knop Volgende/Vorige"
+
+#~ msgid "Formidable"
+#~ msgstr "Formidable"
+
+#~ msgid "https://sivard.nl/"
+#~ msgstr "https://sivard.nl/"

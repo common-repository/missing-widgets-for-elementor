@@ -1,0 +1,21 @@
+# Build ignore list
+/node_modules/
+/build/
+/config/
+/src/
+/tmp/
+/assets/elementor/
+/assets/images/
+composer.json
+composer.lock
+package.json
+package-lock.json
+yarn.lock
+*.zip
+/.*
+tests/
+bin/
+*.xml
+*.yml
+*.log
+.phpstorm.meta.php
